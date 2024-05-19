@@ -3,7 +3,7 @@
 
 ### 1. Data Collection and Surveying
 The project began with an extensive data collection phase, involving both field surveys and the gathering of existing records. This step was critical to ensure the accuracy and comprehensiveness of the data. Survey teams were dispatched to gather property details, such as the size and structure of each house, as well as demographic information about the families living there. Additionally, existing government records and satellite imagery were utilized to cross-verify and supplement the collected data. This comprehensive approach ensured a robust dataset, laying the foundation for precise mapping and analysis.
-
+![Drone](https://github.com/CartoGrapherRaj/Property-Taxation/assets/170260258/881930cb-d303-4009-945a-9905a08cb819)
 ### 2. Digitizing House Polygons in QGIS
 To transform the collected data into a usable format, a detailed map of the area was created using QGIS, a powerful open-source Geographic Information System (GIS) tool. This process involved digitizing each house as a polygon on the map. High-resolution satellite images and field survey sketches were imported into QGIS, serving as basemaps for the digitization process. Each house was carefully outlined to create accurate polygonal representations. This step, termed "Digital Blueprint Creation," was crucial for visualizing and analyzing spatial data effectively.
 
